@@ -1,0 +1,12 @@
+{
+    "asset": "1356d1075c8309047be85485dc1e22a5",
+    "fileName": "019f2f02-0499-7ef3-a972-976fa6d3a006_Preview.jpg",
+    "prompt": "stylized hand-painted green forest grass texture with small yellow and blue wildflowers and clover patches, lush, seamless, tileable, vibrant, game asset, top-down view",
+    "negativePrompt": "",
+    "model": "hand-painted-textures-2-0",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": 883638830,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

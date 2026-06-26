@@ -1,0 +1,12 @@
+{
+    "asset": "72a92c1890cdec341b29e4dfb1d39dec",
+    "fileName": "019f2f29-0607-79e5-a19d-ddc7f240f3ed_Preview.jpg",
+    "prompt": "realistic 3D mossy forest ground texture, damp soil, olive green moss, light green patch of grass, dried pine needles, seamless, tileable, highly detailed, photorealistic PBR material, top-down view",
+    "negativePrompt": "",
+    "model": "realistic-textures-3-0",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 1345989615,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

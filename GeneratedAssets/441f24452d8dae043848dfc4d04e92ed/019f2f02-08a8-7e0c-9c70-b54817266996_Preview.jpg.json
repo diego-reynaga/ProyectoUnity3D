@@ -1,0 +1,12 @@
+{
+    "asset": "441f24452d8dae043848dfc4d04e92ed",
+    "fileName": "019f2f02-08a8-7e0c-9c70-b54817266996_Preview.jpg",
+    "prompt": "stylized hand-painted snow-covered rock texture, soft white snow on light gray mountain stone, seamless, tileable, vibrant, colorful, game asset, top-down view",
+    "negativePrompt": "",
+    "model": "hand-painted-textures-2-0",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": 1404885058,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

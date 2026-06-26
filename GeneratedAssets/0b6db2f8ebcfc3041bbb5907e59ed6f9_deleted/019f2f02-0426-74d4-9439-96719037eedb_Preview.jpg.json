@@ -1,0 +1,12 @@
+{
+    "asset": "0b6db2f8ebcfc3041bbb5907e59ed6f9",
+    "fileName": "019f2f02-0426-74d4-9439-96719037eedb_Preview.jpg",
+    "prompt": "stylized hand-painted cobblestone path texture, medieval stone bricks and gravel, seamless, tileable, warm earthy tones, vibrant, game asset, top-down view",
+    "negativePrompt": "",
+    "model": "hand-painted-textures-2-0",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": 359072361,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

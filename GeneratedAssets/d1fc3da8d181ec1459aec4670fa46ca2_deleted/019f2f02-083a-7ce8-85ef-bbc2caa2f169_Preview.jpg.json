@@ -1,0 +1,12 @@
+{
+    "asset": "d1fc3da8d181ec1459aec4670fa46ca2",
+    "fileName": "019f2f02-083a-7ce8-85ef-bbc2caa2f169_Preview.jpg",
+    "prompt": "stylized hand-painted dark gray cliff rock texture, cracked granite stone, seamless, tileable, vertical rock face pattern, game asset, top-down view",
+    "negativePrompt": "",
+    "model": "hand-painted-textures-2-0",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": 1780520028,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

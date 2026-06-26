@@ -1,0 +1,12 @@
+{
+    "asset": "1ed303f2f80f4894983142827779a47e",
+    "fileName": "019f2f29-08f2-766b-84b7-cd3dce672642_Preview.jpg",
+    "prompt": "realistic highly-detailed 3D cobblestone pathway texture, ancient medieval grey stone pavers, realistic mud and gravel in crevices, seamless, tileable, PBR material, top-down view",
+    "negativePrompt": "",
+    "model": "realistic-textures-3-0",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 693208901,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}
